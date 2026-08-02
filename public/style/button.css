@@ -2,7 +2,10 @@
   display: inline;
   
   color: gray;
+  background: transparent;
   text-decoration: none;
+  
+  border: none;
 }
 
 .button:hover {
