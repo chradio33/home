@@ -1,11 +1,12 @@
 .button {
   display: inline;
-  
+    
   color: gray;
   background: transparent;
   text-decoration: none;
   
   border: none;
+  font-size: 1.5rem;
 }
 
 .button:hover {
