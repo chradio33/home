@@ -1,10 +1,10 @@
-const b = document.querySelector("button");
+const copyButton = document.querySelector("button");
 
-const A = 'HHjkVcVV59uMZSXhCmhAX16ugH49DZWDFBoLHLYXvqtG';
+const copyTarget = 'HHjkVcVV59uMZSXhCmhAX16ugH49DZWDFBoLHLYXvqtG';
 
-b.addEventListener('click', async () => {
+copyButton.addEventListener('click', async () => {
     try {
-        await navigator.clipboard.writeText(A);
+        await navigator.clipboard.writeText(copyTarget);
         alert('COPIED');
     } catch {
         alert('FAILED');
