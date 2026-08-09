@@ -1,6 +1,6 @@
-# 카오스 라디오 메인 사이트
+# Home of Chaos Radio
 
-지정학과 카오스 이론을 좋아하는 누군가의 투자 일지
+A trading journal of someone who likes Geopolitics and Chaos Theory
 
 - [Deployed in EN][url_en]
 - [Deployed in KO][url_ko]
